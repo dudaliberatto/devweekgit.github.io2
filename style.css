@@ -1,0 +1,79 @@
+.sisloc-logoicon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 188px;
+    height: 200px;
+    background: #004C8A;
+    border-radius: 10px;
+}
+
+.sisloc-logocontent-s{
+    margin-right: 10px;
+}
+
+.sisloc-logocontent-row{
+    display: flex;
+    justify-content: center;
+}
+       
+.sisloc-logocontent-bluesquare{
+    position: relative;
+    width: 30px;
+    height: 32px;
+    background: #004C8A;
+    border-radius: 5px;
+}
+
+.sisloc-logocontent-orangesquare{
+    width: 30px;
+    height: 30px;
+    background: #F57300;
+    border-radius: 5px;
+}
+
+.sisloc-logocontent-whitesquare{
+    position: relative;
+    width: 30px;
+    height: 32px;
+    background: #FFF;
+    border-radius: 5px;
+}
+
+.sisloc-logocontent-connectpoint-topright{
+    position: relative;
+    width: 60px;
+    height: 32px;
+    background: #FFF;
+    top: 15px;
+    right: 15px;
+    z-index: 1;
+}
+
+.sisloc-logocontent-connectpoint-bottomright{
+    position: relative;
+    width: 60px;
+    height: 32px;
+    background: #FFF;
+    bottom: 15px;
+    right: 15px;
+    z-index: 1;
+}
+
+.sisloc-logocontent-connectpoint-left{
+    position: relative;
+    width: 30px;
+    height:32px;
+    background: #FFF;
+    top: 15px;
+    left: 15px;
+}
+
+.sisloc-logocontent-connectpoint-blueplaceholder{
+    position: relative;
+    width: 30px;
+    height: 32px;
+    background: #004C8A;
+    border-radius: 5px;
+    z-index: 2;
+}
